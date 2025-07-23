@@ -35,6 +35,4 @@ All commands are run from the root directory:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-> Feel free to reuse, adapt, or remove the license for derivative projects created using this template.
+This template is licensed under the [MIT License](LICENSE). Feel free to reuse, adapt, or remove the license for derivative projects created using this template.
