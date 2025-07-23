@@ -1,0 +1,29 @@
+---
+export { getLocalePaths as getStaticPaths } from "lightnet/i18n";
+
+import { CategoriesSection, HeroSection, Page } from "lightnet/components";
+
+import gradient from "../../assets/gradient.svg";
+
+const t = Astro.locals.i18n.t;
+---
+
+<Page>
+  {
+    // TODO: Set hero image, title and subtitle
+  }
+  <HeroSection
+    image={gradient}
+    title={t("x.site.title")}
+    titleSize="xl"
+    showSearch
+  />
+
+  {
+    // TODO: Add categories to /src/content/categories/
+  }
+  <CategoriesSection />
+  {
+    // TODO: Add components to the homepage
+  }
+</Page>
