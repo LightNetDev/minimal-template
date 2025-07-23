@@ -1,5 +1,4 @@
 // @ts-check
-import lightnetDecapAdmin from "@lightnet/decap-admin";
 import { defineConfig } from "astro/config";
 import lightnet from "lightnet";
 
@@ -40,6 +39,5 @@ export default defineConfig({
         },
       ],
     }),
-    lightnetDecapAdmin({ languages }),
   ],
 });

@@ -33,19 +33,6 @@ All commands are run from the root directory:
 | `npm run build`   | Build the production site to the `./dist/` folder      |
 | `npm run preview` | Preview the production build locally                   |
 
-## 🛠️ Admin UI (Content Management)
-
-To use the Admin UI locally:
-
-1. Run `npm run dev` in one terminal tab.
-2. In another tab, run:
-
-   ```bash
-   npx decap-server
-   ```
-
-3. Open your browser and go to: [http://localhost:4321/admin](http://localhost:4321/admin)
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
