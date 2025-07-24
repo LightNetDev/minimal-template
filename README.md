@@ -1,4 +1,4 @@
-# 🧱 Basics Template
+# Basics Template
 
 A minimal LightNet starter template that provides a clean structure and essential configuration—perfect for experienced developers who want maximum control and deep customization. Use this template to kick off a new LightNet project from scratch.
 
