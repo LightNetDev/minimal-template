@@ -4,6 +4,8 @@ A minimal LightNet starter template that provides a clean structure and essentia
 
 🔗 **Live Preview**: [https://basics-template.pages.dev](https://basics-template.pages.dev)
 
+<!-- ASTRO:REMOVE:START -->
+
 ## 🚀 Getting Started
 
 ### Option 1: Create a Local Copy
@@ -21,6 +23,8 @@ Deploy the template directly to your preferred platform:
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lightnetdev/basics-template)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lightnetdev/basics-template)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flightnetdev%2Fbasics-template&env=MY_KEY)
+
+<!-- ASTRO:REMOVE:END -->
 
 ## 📦 Project Commands
 
