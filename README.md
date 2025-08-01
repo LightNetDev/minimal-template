@@ -14,6 +14,8 @@ To create a **local copy**, run the following from your terminal:
 npm create astro@latest -- --template LightNetDev/minimal-template
 ```
 
+Once it’s ready, open the project and follow the `TODO` comments — they’ll walk you through the first steps of setting things up and making it your own.
+
 <!-- ASTRO:REMOVE:END -->
 
 ## 📦 Project Commands
