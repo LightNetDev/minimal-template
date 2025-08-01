@@ -1,6 +1,6 @@
 # Basics Template
 
-A minimal LightNet starter template that provides a clean structure and essential configuration—perfect for experienced developers who want maximum control and deep customization. Use this template to kick off a new LightNet project from scratch.
+A minimal LightNet starter built for experienced developers — clean, flexible, and ready for full customization from the ground up.
 
 🔗 **Live Preview**: [https://basics-template.pages.dev](https://basics-template.pages.dev)
 
@@ -8,27 +8,17 @@ A minimal LightNet starter template that provides a clean structure and essentia
 
 ## 🚀 Getting Started
 
-### Option 1: Create a Local Copy
-
-Run the following command in your terminal to generate a local instance:
+To create a **local copy**, run the following from your terminal:
 
 ```bash
 npm create astro@latest -- --template LightNetDev/basics-template
 ```
 
-### Option 2: Deploy Online
-
-Deploy the template directly to your preferred platform:
-
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lightnetdev/basics-template)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lightnetdev/basics-template)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flightnetdev%2Fbasics-template&env=MY_KEY)
-
 <!-- ASTRO:REMOVE:END -->
 
 ## 📦 Project Commands
 
-All commands are run from the root directory:
+All commands are run from the root of the project, from a terminal:
 
 | Command           | Description                                            |
 | ----------------- | ------------------------------------------------------ |
@@ -37,6 +27,10 @@ All commands are run from the root directory:
 | `npm run build`   | Build the production site to the `./dist/` folder      |
 | `npm run preview` | Preview the production build locally                   |
 
+## 👀 Want to learn more?
+
+Take a look at the [LightNet developer docs](https://docs.lightnet.community).
+
 ## 📄 License
 
-This template is licensed under the [MIT License](LICENSE). Feel free to reuse, adapt, or remove the license for derivative projects created using this template.
+This template is shared under the [MIT License](LICENSE) — you're welcome to reuse it, tweak it, or even remove the license if you're building something new from it. Make it yours!
