@@ -1,4 +1,4 @@
-# Minimal Template
+# 🧱 Minimal Template
 
 A minimal LightNet starter built for experienced developers — clean, flexible, and ready for full customization from the ground up.
 
