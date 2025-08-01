@@ -1,8 +1,8 @@
-# Basics Template
+# Minimal Template
 
 A minimal LightNet starter built for experienced developers — clean, flexible, and ready for full customization from the ground up.
 
-🔗 **Live Preview**: [https://basics-template.pages.dev](https://basics-template.pages.dev)
+🔗 **Live Preview**: [https://minimal-template.pages.dev](https://minimal-template.pages.dev)
 
 <!-- ASTRO:REMOVE:START -->
 
@@ -11,7 +11,7 @@ A minimal LightNet starter built for experienced developers — clean, flexible,
 To create a **local copy**, run the following from your terminal:
 
 ```bash
-npm create astro@latest -- --template LightNetDev/basics-template
+npm create astro@latest -- --template LightNetDev/minimal-template
 ```
 
 <!-- ASTRO:REMOVE:END -->
