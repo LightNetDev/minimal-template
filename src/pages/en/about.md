@@ -1,7 +1,8 @@
 ---
 layout: "lightnet/layouts/MarkdownPage.astro"
-# TODO: Add about content
 ---
+
+ <!-- TODO: Add about content -->
 
 # About
 
