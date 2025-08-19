@@ -1,10 +1,10 @@
-# 🧱 Minimal Template
+# 🧱 Minimal template
 
 A minimal LightNet starter built for experienced developers — clean, flexible, and ready for full customization from the ground up.
 
-🔗 **Live Preview**: [https://minimal-template.pages.dev](https://minimal-template.pages.dev)
+🔗 **Live preview**: [https://minimal-template.pages.dev](https://minimal-template.pages.dev)
 
-## 🚀 Getting Started
+## 🚀 Getting started
 
 To create a **local copy**, run the following from your terminal:
 
@@ -14,7 +14,7 @@ npm create astro@latest -- --template LightNetDev/minimal-template
 
 **💡 Tip:** Look for the `TODO` comments in the code — they’ll walk you through the first steps of setting things up and making it your own.
 
-## 📦 Project Commands
+## 📦 Project commands
 
 All commands are run from the root of the project, from a terminal:
 
