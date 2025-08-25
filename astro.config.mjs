@@ -6,8 +6,6 @@ import lightnet from "lightnet";
  * @type {import('lightnet').Language[]}
  */
 const languages = [
-  // TODO: Add site and content languages.
-  // TODO: For site languages, add translations to /src/translations/
   {
     code: "en",
     label: "English",
@@ -22,7 +20,6 @@ export default defineConfig({
     lightnet({
       title: "x.site.title",
       languages,
-      // TODO: Set your favicon
       favicon: [{ href: "favicon.svg" }],
       mainMenu: [
         {
