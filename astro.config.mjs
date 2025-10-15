@@ -21,6 +21,7 @@ export default defineConfig({
       title: "x.site.title",
       languages,
       favicon: [{ href: "favicon.svg" }],
+      credits: true,
       mainMenu: [
         {
           href: "/",
