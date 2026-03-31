@@ -3,10 +3,13 @@
   "commonId": "the-story-of-the-contaminated-tea",
   "type": "video",
   "language": "en",
-  "authors": ["MediaWorks"],
+  "authors": [
+    "MediaWorks"
+  ],
   "content": [
     {
-      "url": "https://www.youtube.com/watch?v=S61JKDVTK0I"
+      "url": "https://www.youtube.com/watch?v=S61JKDVTK0I",
+      "type": "link"
     }
   ],
   "image": "./images/no-image.webp",
