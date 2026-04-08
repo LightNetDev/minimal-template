@@ -31,7 +31,7 @@ export default defineConfig({
         {
           href: "/media",
           label: {
-            en: "Media",
+            en: "Search",
           },
         },
         {
