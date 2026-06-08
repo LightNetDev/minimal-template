@@ -8,5 +8,10 @@
     "directory": "./dist",
     "not_found_handling": "404-page"
   },
-  "routes": []
+  "routes": [
+    {
+      "pattern": "minimal-template.kuuluu.org",
+      "custom_domain": true
+    }
+  ]
 }
