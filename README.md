@@ -2,14 +2,14 @@
 
 A minimal LightNet starter built for experienced developers — clean, flexible, and ready for full customization from the ground up.
 
-🔗 **Live preview**: [https://minimal-template.pages.dev](https://minimal-template.pages.dev)
+🔗 **Live preview**: [https://minimal-template.kuuluu.org](https://minimal-template.kuuluu.org)
 
 ## 🚀 Getting started
 
 To create a **local copy**, run the following from your terminal:
 
 ```bash
-npm create astro@latest -- --template LightNetDev/minimal-template
+pnpm create astro@latest -- --template LightNetDev/minimal-template
 ```
 
 **💡 Tip:** Look for the `TODO` comments in the code.
@@ -18,12 +18,12 @@ npm create astro@latest -- --template LightNetDev/minimal-template
 
 All commands are run from the root of the project, from a terminal:
 
-| Command           | Description                                            |
-| ----------------- | ------------------------------------------------------ |
-| `npm install`     | Install all project dependencies                       |
-| `npm run dev`     | Start the local development server at `localhost:4321` |
-| `npm run build`   | Build the production site to the `./dist/` folder      |
-| `npm run preview` | Preview the production build locally                   |
+| Command        | Description                                            |
+| -------------- | ------------------------------------------------------ |
+| `pnpm install` | Install all project dependencies                       |
+| `pnpm dev`     | Start the local development server at `localhost:4321` |
+| `pnpm build`   | Build the production site to the `./dist/` folder      |
+| `pnpm preview` | Preview the production build locally                   |
 
 ## 👀 Want to learn more?
 
