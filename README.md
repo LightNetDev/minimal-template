@@ -14,6 +14,10 @@ pnpm create astro@latest -- --template LightNetDev/minimal-template
 
 **💡 Tip:** Look for the `TODO` comments in the code.
 
+Alternatively you can **directly deploy** this template to Cloudflare Workers:
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/LightNetDev/minimal-template)
+
 ## 📦 Project commands
 
 All commands are run from the root of the project, from a terminal:
