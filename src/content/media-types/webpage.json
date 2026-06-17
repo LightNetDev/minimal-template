@@ -1,0 +1,12 @@
+{
+  "label": {
+    "en": "Web page"
+  },
+  "detailsPage": {
+    "layout": "default",
+    "openActionLabel": {
+      "en": "Visit"
+    }
+  },
+  "icon": "lucide--scroll-text"
+}

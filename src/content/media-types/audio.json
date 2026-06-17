@@ -1,0 +1,9 @@
+{
+  "label": {
+    "en": "Audio"
+  },
+  "detailsPage": {
+    "layout": "audio"
+  },
+  "icon": "lucide--headphones"
+}
