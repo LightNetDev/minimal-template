@@ -9,7 +9,7 @@ A minimal LightNet starter built for experienced developers — clean, flexible,
 To create a **local copy**, run the following from your terminal:
 
 ```bash
-pnpm create astro@latest -- --template LightNetDev/minimal-template
+pnpm create astro@latest --template LightNetDev/minimal-template
 ```
 
 **💡 Tip:** Look for the `TODO` comments in the code.
