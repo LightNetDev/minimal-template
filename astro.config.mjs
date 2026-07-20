@@ -4,7 +4,7 @@ import lightnet from "lightnet";
 
 export default defineConfig({
   // TODO: Set the site's domain.
-  site: "https://your-site-domain.com",
+  site: "https://your-site.example",
   integrations: [
     lightnet({
       title: {
