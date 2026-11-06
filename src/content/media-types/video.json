@@ -2,6 +2,7 @@
   "label": {
     "en": "Video"
   },
+  "schemaType": "VideoObject",
   "coverImageStyle": "video",
   "detailsPage": {
     "layout": "video"

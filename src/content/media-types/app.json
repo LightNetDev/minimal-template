@@ -2,6 +2,7 @@
   "label": {
     "en": "App"
   },
+  "schemaType": "SoftwareApplication",
   "detailsPage": {
     "layout": "default"
   },

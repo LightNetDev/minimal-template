@@ -2,6 +2,7 @@
   "label": {
     "en": "Book"
   },
+  "schemaType": "Book",
   "detailsPage": {
     "layout": "default",
     "openActionLabel": {

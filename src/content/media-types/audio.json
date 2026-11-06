@@ -2,6 +2,7 @@
   "label": {
     "en": "Audio"
   },
+  "schemaType": "AudioObject",
   "detailsPage": {
     "layout": "audio"
   },

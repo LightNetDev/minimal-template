@@ -2,6 +2,7 @@
   "label": {
     "en": "Web page"
   },
+  "schemaType": "WebPage",
   "detailsPage": {
     "layout": "default",
     "openActionLabel": {
